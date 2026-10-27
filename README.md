@@ -10,7 +10,7 @@
 
 **IT student · cybersecurity enthusiast · curious human**
 
-*Nairobi, Kenya 🇰🇪 — learning in public, one rabbit hole at a time.*
+*Nairobi, Kenya 🇰🇪 | learning in public, one rabbit hole at a time.*
 
 [Repositories](https://github.com/iamstanleyblack?tab=repositories) · [Projects](https://github.com/iamstanleyblack?tab=repositories) · [Contact](https://github.com/iamstanleyblack)
 
