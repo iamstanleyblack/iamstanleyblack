@@ -15,6 +15,7 @@
 [Repositories](https://github.com/iamstanleyblack?tab=repositories) · [Projects](https://github.com/iamstanleyblack?tab=repositories) · [Contact](https://github.com/iamstanleyblack)
 
 <img src="https://komarev.com/ghpvc/?username=iamstanleyblack&style=flat-square&color=8b5cf6&label=visitors" alt="Profile visitor counter"/>
+<img src="https://img.shields.io/github/followers/iamstanleyblack?style=flat-square&color=8b5cf6&label=followers" alt="GitHub followers"/>
 
 </div>
 
