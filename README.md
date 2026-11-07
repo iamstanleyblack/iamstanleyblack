@@ -8,7 +8,7 @@
 
 `[ currently loading... ]` &nbsp; `★ curiosity.exe` &nbsp; `♡ humans.dll` &nbsp; `sudo be_kind`
 
-**IT student · cybersecurity enthusiast · curious human**
+**IT Student · Cybersecurity Enthusiast · Curious Human**
 
 *Nairobi, Kenya 🇰🇪 | learning in public, one rabbit hole at a time.*
 
@@ -92,7 +92,7 @@ Soundtrack for coding, thinking, walking, overthinking, and getting emotionally 
 <summary>📚 reading.exe — currently in recovery</summary>
 <br/>
 
-I used to devour books. Now finishing a chapter sometimes feels like fighting a final boss. Current quest: **finish at least one novel before the year ends**.
+I used to devour books. Now finishing a chapter sometimes feels like fighting a final boss. Current quest: **finish at least one novel before the year ends🤞️**.
 
 One chapter at a time. No speedrun required. 💀
 
