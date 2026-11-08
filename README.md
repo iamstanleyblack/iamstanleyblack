@@ -18,6 +18,12 @@
 <img src="https://img.shields.io/github/followers/iamstanleyblack?style=flat-square&color=8b5cf6&label=followers" alt="GitHub followers"/>
 
 </div>
+<div>
+  <p align="center">
+  <img src="https://camo.githubusercontent.com/a8d3da3528ef9b39401e1d24c0965e543580bfdc682c7b5c46fcbd8c582be8e3/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966" alt="Hacker GIF" />
+</p>
+
+</div>
 
 ---
 
